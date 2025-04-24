@@ -23,7 +23,7 @@ PCA_MultiDataset_Analysis/
 ## 📦 Datasets
 
 - **Occupancy**: [UCI Occupancy Detection Dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
-- **Pesticide**: Based on IDSWeedCropTrain.csv,IDSWeedCropTest.csv — used for pesticide classification (weed vs crop).
+- **Pesticide**: Based on IDSWeedCropTrain.csv,IDSWeedCropTest.csv —- used for pesticide classification (weed vs crop).
 
 ## ▶️ Instructions
 
