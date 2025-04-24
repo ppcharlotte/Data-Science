@@ -27,7 +27,7 @@ PCA_MultiDataset_Analysis/
 
 ## ▶️ Instructions
 
-1. Download the datasets to the `data/` folder.
+1. Download the datasets in the `data/` folder.
 2. Install dependencies:
 
 ```bash
