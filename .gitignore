@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter runtime
+.ipython/
+
+# VSCode configuration
+.vscode/
+
+# PyCharm project settings
+.idea/
+
+# macOS system files
+.DS_Store
